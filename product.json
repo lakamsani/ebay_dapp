@@ -1,0 +1,13 @@
+{
+  "auctionEndTime": 1520312886,
+  "auctionStartTime": 1520226486,
+  "blockchainId": 4,
+  "category": "Cell TVs",
+  "condition": 1,
+  "ipfsDescHash": "QmP9XGszXbHeEKU88Evyxz1YrF4RGaCRy9a5yoDQUidf1x",
+  "ipfsImageHash": "QmV4jmragpMe4ozQh8bEpb8wUqpditgr1RHwX1MZWRAsYN",
+  "name": "Vizio TV",
+  "price": 4000000000000000000,
+  "productStatus": 0,
+  "_id": "5a9cd0b64aaaaa9f2fc200d9"
+}
